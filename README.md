@@ -3,7 +3,7 @@
 ## files in chapter * are stored in chapter_* folders
 
 ## note for CTubeGen software in chapter_5 folder
-- A software I developed for generating arbitray chlorosomal tubes, CTubeGen_Feb2020.app, is included.
+- A software I developed for generating arbitray chlorosomal tubes, CTubeGen_Feb2020.app.
 
 - It is a dustributed package for macOS, with a graphic user interace. 
 
