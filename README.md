@@ -1,4 +1,4 @@
-# Repository for supporting information files of Xinmeng's phd thesis "A Computational Study of Structural and Excitonic Properties of Chlorosomes"
+# SI for "A Computational Study of Structural and Excitonic Properties of Chlorosomes"
 
 ## files in chapter * are stored in chapter_* folders
 
