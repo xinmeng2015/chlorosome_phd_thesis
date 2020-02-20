@@ -7,7 +7,7 @@
 
 - It is a distributed package for macOS, with a graphic user interface. 
 
-- The usage is straighforward: 
+- The usage is straightforward: 
 
 0. download the CTubeGen_Feb2020.dmg uncompress the CTubeGen_Feb2020.app file & open the app file (right-click --> open).
 1. in the UI, fill in the n1 and n2 integers (chiral indices).
